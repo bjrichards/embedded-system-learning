@@ -3,4 +3,4 @@ Simple starting project. Using 3 LEDs, the lights are lit up in the pattern gree
 
 <img src="./Image.jpeg" alt="Image of traffic light project" width="400"/>
 
-In the image you will notice there are three resistors in the image, which corresponds to the 141 ohm resistor in the circuit diagram. This is due to the limited resistors I had. In order to get around the 150 ohms I was aiming for, I used three 47 ohm resistors in series.
+In the image you will notice there are three resistors, which corresponds to the 141 ohm resistor in the circuit diagram. This is due to the limited resistors I had. In order to get around the 150 ohms I was aiming for, I used three 47 ohm resistors in series.
